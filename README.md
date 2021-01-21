@@ -4,7 +4,8 @@ Introdução à Física de Partículas 
 
 Neste repositório poderão ver as ajudas das listas da disciplina. Nas listas é necessário apresentar os cálculos e argumentação. 
 
-Lembrem que a bibliografia que o professor vã seguir são a seguinte:
+
+Bibliografia que o professor vã seguir:
 
 Bibliografia básica – Particle Physics, B. R. Martin and G. Shaw, 3a edição, WILEY, 2008.
 
