@@ -21,8 +21,7 @@ Bibliografia complementar – Starndard Model, Particle Data Group 2016.
 
 
 
-
-Como for comentado na primeira aula, aquele estudante que tenha interesse em pesquisar alguns tópicos de física de materiais pode revisar a seguintes referências: 
+Além disso, Como for comentado na primeira aula, aquele estudante que tenha interesse em pesquisar alguns tópicos de física de materiais pode revisar a seguintes referências: 
 
 
 Kittel, Charles, Paul McEuen, and Paul McEuen. Introduction to solid state physics. Vol. 8. New York: Wiley, 1996
